@@ -1,6 +1,5 @@
 # the_portfolio
-
-A new Flutter project.
+It is a portfoilo website using flutter.
 
 ## Getting Started
 
